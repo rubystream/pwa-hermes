@@ -2,7 +2,7 @@
   <div id="app">
     <b-navbar fixed="top" :sticky="true" toggleable="md" type="dark" variant="primary">
       <b-navbar-toggle target="nav_collapse"></b-navbar-toggle>
-      <b-navbar-brand href="#">PWA Chat</b-navbar-brand>
+      <b-navbar-brand href="#">PWA Chat Demo</b-navbar-brand>
     </b-navbar>
     <b-container fluid>
       <router-view></router-view>
